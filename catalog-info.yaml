@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dora-medium-repo
+  annotations:
+    github.com/project-slug: liatrio/dora-medium-repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage-foundations
